@@ -245,4 +245,4 @@ class MonModel extends AbstractListModel<Personne> {
 	public int getSize(){
 		return donnees.size();
 	}
-    
+    }
